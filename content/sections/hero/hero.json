@@ -1,22 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "Hi, my name is",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
+    "src": "../../images/me.JPG",
     "alt": "My Photo"
   },
   "image": {
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Joshua Ramat.",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
-    "suffix": "."
+    "prefix": "I enjoy creating things that live on the internet."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a software engineer specializing in developing exceptional digital experiences. Currently, I'm dedicated to building an accessible, people-focused experience at Jetsweat",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
-    "showIcons": false
+    "from": ["LinkedIn","Github", "Mail"],
+    "showIcons": true
   }
 }
