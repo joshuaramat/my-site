@@ -3,10 +3,10 @@ imageSrc: "../../images/me3.JPEG"
 imageAlt: "Joshua Ramat"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Hello! My name is Joshua and I enjoy building things that live on the internet. I am a software engineer with a passion for creating things that make a difference. 
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+My journey started in healthcare, where I worked as a physical therapy aide and witnessed the transformative power of technology. I was determined to bring my skills and passion together in the world of software development. Having recently completed UC Berkeley's Full Stack Web Development bootcamp and a strong foundation in Javascript, I am always eager to learn new technologies and tackle new challenges. I am excited to join like-minded individuals who share my passion for pushing the boundaries of what's possible with technology.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Currently, I am a software engineer intern involved in design decisions, focusing on building an accessible, people-focused experience at Jetsweat for a variety of clients. I've recently deployed features that increase subscription conversion and reduce cart abandonment.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
+When I'm not coding, you can find me exploring the great outdoors, practicing Brazilian Jiu-Jitsu, or taking photos.
