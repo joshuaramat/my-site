@@ -7,16 +7,16 @@
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "build:digitalocean": "npm install --production=false && gatsby build && gatsby clean"
+    "build:netlify": "npm install --production=false && gatsby build && gatsby clean"
   },
   "engines": {
-    "node": "17.x"
+    "node": "18.x"
   },
   "dependencies": {
-    "gatsby": "^5.0.1",
+    "gatsby": "^5.x",
     "gatsby-theme-portfolio-minimal": "latest",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^18.x",
+    "react-dom": "^18.x"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
@@ -40,5 +40,8 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ]
+  ],
+  "devDependencies": {
+    "gatsby-plugin-netlify": "^5.1.0"
+  }
 }
