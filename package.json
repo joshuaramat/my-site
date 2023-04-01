@@ -6,10 +6,11 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "build:digitalocean": "npm install --production=false && gatsby build && gatsby clean"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "17.x"
   },
   "dependencies": {
     "gatsby": "^5.0.1",
