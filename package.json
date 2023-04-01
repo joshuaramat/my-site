@@ -6,17 +6,17 @@
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve",
-    "build:netlify": "npm install --production=false && gatsby build && gatsby clean"
+    "serve": "gatsby serve"
   },
   "engines": {
-    "node": "18.x"
+    "node": ">=18.0.0"
   },
   "dependencies": {
-    "gatsby": "^5.x",
-    "gatsby-theme-portfolio-minimal": "latest",
-    "react": "^18.x",
-    "react-dom": "^18.x"
+    "gatsby": "^5.8.1",
+    "gatsby-plugin-robots-txt": "^1.8.0",
+    "gatsby-theme-portfolio-minimal": "4.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "author": "Konstantin Münster <mail@konstantin.digital>",
   "license": "0BSD",
