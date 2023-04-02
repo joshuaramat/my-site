@@ -7,9 +7,9 @@
       "description": "A web-based tool designed to help physical therapy staff at the Sutter Palo Alto Medical Foundation quickly and easily visualize patient appointments and manage their schedules. With its user-friendly interface, this app provides a convenient and efficient solution for staff to visualize the volume of patients scheduled in a given hour, manually input patient data, and view a bar graph of the appointment data. Using React.js for front-end and Chart.js for charting, this app is the perfect tool for physical therapy staff at the Sutter Palo Alto Medical Foundation to manage their schedules.",
       "tags": ["React", "Chart.js"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
+        "src": "../../images/pt-chart.png",
         "alt": "PT Visualization",
-        "linkTo": "https://github.com/joshuaramat/pt-chart"
+        "linkTo": "https://github.com/joshuaramat/pt-chart/blob/main/public/screenshot.png"
       },
       "links": [
         {
@@ -18,12 +18,12 @@
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://pt-chart.netlify.app/"
         }
       ]
     },
     {
-      "visible": true,
+      "visible": false,
       "category": "🧰 EXTENDABLE LAYOUT",
       "title": "Add more sections!",
       "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
