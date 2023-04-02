@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "",
-      "title": "Patient Volume Visualizer",
+      "title": "ClinicFlow",
       "description": "A web-based tool designed to help physical therapy staff at the Sutter Palo Alto Medical Foundation quickly and easily visualize patient appointments and manage their schedules. With its user-friendly interface, this app provides a convenient and efficient solution for staff to visualize the volume of patients scheduled in a given hour, manually input patient data, and view a bar graph of the appointment data. Using React.js for front-end and Chart.js for charting, this app is the perfect tool for physical therapy staff at the Sutter Palo Alto Medical Foundation to manage their schedules.",
       "tags": ["React", "Chart.js"],
       "image": {
