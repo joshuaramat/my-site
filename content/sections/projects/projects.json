@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/pt-chart.png",
         "alt": "PT Visualization",
-        "linkTo": "https://github.com/joshuaramat/pt-chart"
+        "linkTo": "https://pt-chart.netlify.app/"
       },
       "links": [
         {
