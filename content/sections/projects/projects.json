@@ -9,7 +9,7 @@
       "image": {
         "src": "../../images/pt-chart.png",
         "alt": "PT Visualization",
-        "linkTo": "https://pt-chart.netlify.app/"
+        "linkTo": "https://clinic-flow.netlify.app"
       },
       "links": [
         {
@@ -18,7 +18,7 @@
         },
         {
           "type": "external",
-          "url": "https://pt-chart.netlify.app/"
+          "url": "https://clinic-flow.netlify.app"
         }
       ]
     },
