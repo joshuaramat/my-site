@@ -3,6 +3,27 @@
     {
       "visible": true,
       "category": "",
+      "title": "BriefMe",
+      "description": "BriefMe, an AI-driven tool, transforms the way we process information by condensing complex content into digestible summaries. This project, built with React, Tailwind CSS, and Vite, and leveraging Rapid API's Article Extractor and Summarizer, demonstrates an adept application of advanced technologies and a commitment to creating user-oriented solutions. The elegant integration of these technologies signifies a profound understanding of modern software engineering principles.",
+      "tags": ["React", "Tailwind CSS", "Vite", "Rapid API", "OpenAI's GPT-4"],
+      "image": {
+        "src": "../../images/briefme.png",
+        "alt": "screenshot"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/joshuaramat/summarizer"
+        },
+        {
+          "type": "external",
+          "url": "https://brief-me-jr.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "ClinicFlow",
       "description": "A web-based tool designed to help physical therapy staff at the Sutter Palo Alto Medical Foundation quickly and easily visualize patient appointments and manage their schedules. With its user-friendly interface, this app provides a convenient and efficient solution for staff to visualize the volume of patients scheduled in a given hour, manually input patient data, and view a bar graph of the appointment data. Using React.js for front-end and Chart.js for charting, this app is the perfect tool for physical therapy staff at the Sutter Palo Alto Medical Foundation to manage their schedules.",
       "tags": ["React", "Chart.js"],
@@ -19,23 +40,6 @@
         {
           "type": "external",
           "url": "https://clinic-flow.netlify.app"
-        }
-      ]
-    },
-    {
-      "visible": false,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
-      "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
-      },
-      "links": [
-        {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
         }
       ]
     }
