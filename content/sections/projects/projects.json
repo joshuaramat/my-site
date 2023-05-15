@@ -8,7 +8,8 @@
       "tags": ["React", "Tailwind CSS", "Vite", "Rapid API", "OpenAI's GPT-4"],
       "image": {
         "src": "../../images/briefme.png",
-        "alt": "screenshot"
+        "alt": "screenshot",
+        "linkTo": "https://brief-me-jr.netlify.app/"
       },
       "links": [
         {
