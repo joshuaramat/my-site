@@ -11,7 +11,8 @@
     "social": {
       "github": "https://github.com/joshuaramat",
       "linkedin": "https://www.linkedin.com/in/joshuaramat/",
-      "mail": "mailto:ramatjoshua@gmail.com"
+      "mail": "mailto:ramatjoshua@gmail.com",
+      "buymeacoffee": "https://calendly.com/joshuaramat/30min"
     }
   },
   "siteConfiguration": {
@@ -20,7 +21,8 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Projects", "url": "/#projects" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Github", "url": "/#github" },
+        { "label": "Schedule a Call!", "url": "https://calendly.com/joshuaramat/30min"}
       ],
       "ctaButton": {
         "openNewTab": true,
@@ -34,7 +36,7 @@
     "featureToggles": {
       "useDarkModeAsDefault": false,
       "useDarkModeBasedOnUsersPreference": true,
-      "useCookieBar": false
+      "useCookieBar": true
     }
   }
 }
