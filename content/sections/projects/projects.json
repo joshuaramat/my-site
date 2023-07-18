@@ -3,6 +3,28 @@
     {
       "visible": true,
       "category": "",
+      "title": "Echo Pulse",
+      "description": "Discover EchoPulse, a powerful tool transforming feedback collection. With an effortless 'yes' or 'no' voting system, and a blend of cutting-edge technologies like MongoDB, React, Redux, and Google OAuth, EchoPulse puts insightful, data-driven decisions at your fingertips. Harness the power of user voices with EchoPulse - your key to refined product development.",
+      "tags": ["React", "MongoDB", "NodeJS", "ExpressJS", "Redux", "Stripe", "Google OAuth"],
+      "image": {
+        "src": "../../images/echo-pulse.png",
+        "alt": "screenshot",
+        "linkTo": "https://echo-pulse.up.railway.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/joshuaramat/email-app"
+        },
+        {
+          "type": "external",
+          "url": "https://echo-pulse.up.railway.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "BriefMe",
       "description": "BriefMe, an AI-driven tool, transforms the way we process information by condensing complex content into digestible summaries. This project, built with React, Tailwind CSS, and Vite, and leveraging Rapid API's Article Extractor and Summarizer, demonstrates an adept application of advanced technologies and a commitment to creating user-oriented solutions. The elegant integration of these technologies signifies a profound understanding of modern software engineering principles.",
       "tags": ["React", "Tailwind CSS", "Vite", "Rapid API", "OpenAI's GPT-4"],
